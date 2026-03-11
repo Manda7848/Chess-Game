@@ -29,7 +29,9 @@
     background-color: var(--p)
 }
 
-
+.piece{
+    background-color: aqua;
+}
 
 
 
