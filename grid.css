@@ -9,8 +9,9 @@
 
 #coordinates{
     display: grid;
-    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
-    grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    align-self: center;
+    grid-template-columns: repeat(8, 100px);
+    grid-template-rows: repeat(8, 100px);
     background-color: aqua;
     margin: 10px;
     padding: 10px;
@@ -30,8 +31,10 @@
     background-color: var(--p)
 }
 
-.piece{
+ .piece{
     background-color: aqua;
+    width: 100px;
+    height: 100px;
 }
 
 
