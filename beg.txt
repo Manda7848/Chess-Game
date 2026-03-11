@@ -16,3 +16,5 @@ chess board is 64 squares. 8x8 grid, easy enough right. nope
 waitttttt, i write the spaces and their um coordinates in the blank spaces but hide it with a ummmmmmmmm squareeee
 
 I use divs. Yeah
+
+Why are the images showing the background colour of the body and not the div that they are contained in!?
