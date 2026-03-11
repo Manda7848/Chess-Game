@@ -9,7 +9,8 @@
 
 #coordinates{
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    grid-template-rows: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
     background-color: aqua;
     margin: 10px;
     padding: 10px;
