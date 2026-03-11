@@ -1,0 +1,18 @@
+#PLEASE, PYTHON. I BEG YOU. I KNOW YOU CAN DO THIS. I KNOW YOU CAN. PLEASE, JUST WORK. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN
+
+ #Dining tables are not for coding. My Hands are cramping up so bad
+
+ YELLOW= (37,25,84)
+#DEFINITELY NOT YELLOW
+#RESET THE BOARD
+#Yeah, IDK how to code PYTHON
+
+Even if this is the only project I do for SLeepover, I will code it myself.
+
+This is A readme but more like a hidden rant for the entire process and for me to write the logic
+
+essentially,
+chess board is 64 squares. 8x8 grid, easy enough right. nope
+waitttttt, i write the spaces and their um coordinates in the blank spaces but hide it with a ummmmmmmmm squareeee
+
+I use divs. Yeah
