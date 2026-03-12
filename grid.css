@@ -32,9 +32,9 @@
 }
 
  .piece{
-    background-color: aqua;
-    width: 100px;
-    height: 100px;
+    /* background-color: aqua; */
+    width: 80px;
+    height: 80px;
 }
 
 

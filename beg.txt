@@ -9,7 +9,7 @@
 
 Even if this is the only project I do for SLeepover, I will code it myself.
 
-This is A readme but more like a hidden rant for the entire process and for me to write the logic
+This is a log but more like a hidden rant for the entire process and for me to write the logic
 
 essentially,
 chess board is 64 squares. 8x8 grid, easy enough right. nope
@@ -17,8 +17,15 @@ waitttttt, i write the spaces and their um coordinates in the blank spaces but h
 
 I use divs. Yeah
 
-Why are the images showing the background colour of the body and not the div that they are contained in!?
+Why are the images showing the background colour of the body and not the div that they are contained in!?. Comverting them to svg should fix it[ID DID NOT. IDK WHYYYYYY]
 
 Wakatime keeps getting random bouts where it has an error and tells me to check an error log which does not even exist
 
 Anyways, time to make the id names shorter and try to figure out the grid
+
+
+Ideas that came to me after my shower(shower thoughts are the best):
+-A phone number validity checker. First for Nigerian phone numbers, With a coutnry code, if I can figure the logic out
+-How Nigerian are you(quiz), 5 questions about Nigeria that I feel that everyone should know. At the end of the quiz, your score is diplaayed on the nigerianess meter depensing on how many questions you got right. maybe with music if I can figure out an audio player
+Also, an Organic Chemistry quiz
+Maybe a periodic table, Nothing fancy. oh wait, maybe an API after making it normally
