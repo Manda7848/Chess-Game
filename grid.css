@@ -3,6 +3,7 @@
 
 /* COLOUR DEFINITION*/
 *{
+    color: white;
     --p: #2103a8;
     --w: #ffffff;
     --a: #010972;
@@ -14,12 +15,14 @@ body{
     font-family: 'Orbitron', sans-serif;
 }
 #coordinates{
+    color: #000000;
     display: grid;
     align-self: center;
     grid-template-columns: repeat(8, 100px);
+    justify-content: center;
     
     grid-template-rows: repeat(8, 100px);
-    background-color: rgb(94, 95, 15);
+    background-color:#C4A484;
     margin: 10px;
     padding: 10px;
     margin-left: 100px;
@@ -30,10 +33,10 @@ body{
 
 }
 
-#board{
+/* #board{
     background-color: rgb(0, 0, 0);
     
-}
+} */
 
 
 #a8, #c8, #e8, #g8, #b7, #d7, #f7, #h7, #a6, #c6, #e6, #g6, #b5, #d5, #f5, #h5, #a4, #c4, #e4, #g4, #b3, #d3, #f3, #h3, #a2, #c2, #e2, #g2, #b1, #d1, #f1, #h1{
@@ -48,6 +51,7 @@ body{
     /* background-color: aqua; */
     width: 100px;
     height: 100px;
+    box-shadow: #000000 3px 3px ;
     background: transparent;
     
 }
