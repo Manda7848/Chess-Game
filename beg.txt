@@ -58,3 +58,12 @@ Just tried to see if document,getelement by clasname would be any better but the
 But now, HOW TO MAKE PIECE LIKE POSITION STORE!?
 
 yeah so get element by classname doesnt work. as expected.
+
+
+
+
+
+JUST GOT AN IDEAAAAAA
+WHACK AMOLE
+WITH THE JAVASCRIPT TIMEOUT
+I THINK I MIGHT BUILD IT RQ CUS THIS LOGIC CANNOT BE DONE TN FRFR
