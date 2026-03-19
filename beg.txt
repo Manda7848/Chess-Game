@@ -41,3 +41,11 @@ Hussah. HACKATIME IS BACK AND I AM ALMOST DONE WITH THE HTML AND CSS PART OF MY 
 
 
 I accidentally made it retro but it loooks quite cool so I might take inspo from that and make the pieces retro
+
+Ok, took Hackatime so long to initialize
+The onclick change background thing works so that's a good sign
+But now I need to figure out actual like piece logic.
+I need to figure out if the active function can be applied to multiple pieces at once, the closes thing i've seen to that was on stack overflow but idk if javascript would like to create an array from multiple Document.getelementbyids.
+Just tried to see if document,getelement by clasname would be any better but then i realized that i would have to calculate which specific click was clicked so I think writing the onclick active thing for every piece would be much easier for me. 
+
+But now, HOW TO MAKE PIECE LIKE POSITION STORE!?
