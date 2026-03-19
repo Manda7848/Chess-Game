@@ -1,7 +1,7 @@
 window.onload = function(){ 
     
     
-document.getElementsById("wr2").addEventListener("click", Wr2); 
+document.getElementById("wr2").addEventListener("click", Wr2); 
 
 function Wr2() {
     
