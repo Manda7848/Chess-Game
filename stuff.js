@@ -15,7 +15,16 @@ document.getElementById("g3").addEventListener("click", ga);
 
 function ga() {
     document.getElementById("g3").style.backgroundColor= "white";
-    console.log("square 47 was clicked")
+    console.log("square 47 was clicked");
+
+    setTimeout(back, 1000);
+    
+
+}
+
+function back() {
+     document.getElementById("g3").style.backgroundColor= "var(--p)";
+    console.log("square 47 was unselected");
 }
 
 document.getElementById("wr1").addEventListener("click", Wr1); 
