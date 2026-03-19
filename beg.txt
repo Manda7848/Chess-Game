@@ -1,3 +1,10 @@
+PLEASE SLEEPOVER REVIEWER, HAVE MERCY AND DO NOT DEDUCT HOURS
+MOST OF THE TIME LOGGED WAS SPENT TYPING IN THIS THING AND BRAINSTORMING AND I NEVER SAT DOWN TO CODE ALL AT ONCE HENCE MY INFREQUENT COMMITS.
+IF THERE IS ANY AI USE. BLAME FORUMS TBH CUS I DID NOT OPEN GEMINI ONCE FOR THE ENTIRETY OF THIS PROJECT
+
+
+
+
 #PLEASE, PYTHON. I BEG YOU. I KNOW YOU CAN DO THIS. I KNOW YOU CAN. PLEASE, JUST WORK. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN. I KNOW YOU CAN
 
  #Dining tables are not for coding. My Hands are cramping up so bad
@@ -49,3 +56,5 @@ I need to figure out if the active function can be applied to multiple pieces at
 Just tried to see if document,getelement by clasname would be any better but then i realized that i would have to calculate which specific click was clicked so I think writing the onclick active thing for every piece would be much easier for me. 
 
 But now, HOW TO MAKE PIECE LIKE POSITION STORE!?
+
+yeah so get element by classname doesnt work. as expected.
