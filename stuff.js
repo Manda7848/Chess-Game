@@ -13,7 +13,7 @@ function Wr2() {
 
 document.getElementById("g3").addEventListener("click", ga); 
 
-function ga{
+function ga() {
     document.getElementById("g3").style.backgroundColor= "white";
     console.log("square 47 was clicked")
 }
